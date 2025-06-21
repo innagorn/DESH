@@ -1,0 +1,35 @@
+---
+format: 
+  revealjs:
+    footer: "Inna Stanley"
+---
+
+## 
+
+![](Title.PNG)
+
+## Assignment Overview
+
+Part 1: Develop Project Tracker with Sample Data
+
+Part 2: Draft email to senior leaders summarizing data
+
+## Part 1: Program Tracker via "Notion"
+
+-   [Notion Program Tracker](https://www.notion.so/MBOT-Program-Tracker-Inna-Stanley-21763605bdee8010b814e39c54653168?source=copy_link) (click to view)
+
+![](Notion_Program_Tracker.PNG)
+
+## Part 2: Summary Email
+
+![](email_to_sr_leadership.PNG)
+
+## Part 2: Email Attachment
+
+![](Program_Snapshot.PNG)
+
+## Contact Information
+
+-   [Inna.Stanley1\@gmail.com](Inna.Stanley1@gmail.com)
+-   [Resume](https://docs.google.com/document/d/1-7qSbh8kkmPEX9ccvK6CyBSP4_y_HglG/edit)
+-   [Linkedin](https://www.linkedin.com/in/innagorn)
