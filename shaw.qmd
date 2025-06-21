@@ -10,7 +10,7 @@ format:
 
 ## Assignment Overview
 
-Part 1: Develop Project Tracker with Sample Data
+Part 1: Develop Project Tracker with sample data
 
 Part 2: Draft email to senior leaders summarizing data
 
