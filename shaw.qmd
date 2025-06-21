@@ -1,7 +1,7 @@
 ---
 format: 
   revealjs:
-    footer: "Inna Stanley"
+    footer: "Inna Stanley - https://github.com/innagorn/DESH"
 ---
 
 ## 
